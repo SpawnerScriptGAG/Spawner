@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/dwoKnuWE8VKx3G8e/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLagGrowAGarden/legendary-scriptsa/main/power-scripta.lua"))()
